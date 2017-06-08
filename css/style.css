@@ -13,3 +13,54 @@ font-family: 'ABeeZee', sans-serif;
 }
 
 /*Seccion 1*/
+.container1{
+	background: url(../img/portada.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 150vh;
+	color: whitesmoke;
+}
+
+.menuElementos{
+	background: transparent;
+}
+
+.textos1A{
+	margin: 22% 0 0 11%;
+}
+
+.text1A, .p1A{
+	padding: 0 24% 0 0;
+}
+
+.p1A{
+	font-size: 15px;
+	font-family: 'ABeeZee', sans-serif;
+}
+
+h3, h1{
+	font-family: 'Poiret One', cursive;
+	font-weight: bold;
+}
+
+/*Enlaces Menu - Seccion 1*/
+.enlacesMenu{
+	color: whitesmoke;
+	text-decoration: none;
+	font-family: 'ABeeZee', sans-serif;
+}
+
+.enlacesMenu:hover{
+	color: #84C44A;
+	text-decoration: none;
+}
+
+/*Boton - Seccion 1*/
+.botoncito{
+	background-color: #4C7235;
+	border: 0.5px;
+	border-radius: 8px;
+	width: 23%;
+	padding: 10px;
+	font-family: 'ABeeZee', sans-serif;
+}
