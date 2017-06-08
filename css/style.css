@@ -20,6 +20,7 @@ font-family: 'ABeeZee', sans-serif;
 	background-position: center;
 	height: 150vh;
 	color: whitesmoke;
+	padding: 0 6% 6% 6%;
 }
 
 .menuElementos{
@@ -27,7 +28,7 @@ font-family: 'ABeeZee', sans-serif;
 }
 
 .textos1A{
-	margin: 22% 0 0 11%;
+	margin: 31% 0 0 4%;
 }
 
 .text1A, .p1A{
@@ -64,9 +65,14 @@ h3, h1, h2{
 	width: 23%;
 	padding: 10px;
 	font-family: 'ABeeZee', sans-serif;
+	color: whitesmoke;
 }
 
 /*Seccion 2*/
+
+.container2{
+	padding: 6% 6%;
+}
 
 h2{
 	color: #41521F;
@@ -74,5 +80,30 @@ h2{
 
 .pag2A{
 	padding-top: 13%;
+	padding-right: 10%;
+}
+
+a{
+	text-decoration: none;
+	color: #4C7235;
+}
+
+a:hover{
+	color: #84C44A;
+	text-decoration: none;
+}
+
+/*SECCIÓN 3*/
+
+.container3{
+	background: #A89F68;
+	padding: 8% 8%;
+}
+
+.fotoSec3{
+	border: whitesmoke 16px solid;
+}
+
+.text3{
 	padding-right: 10%;
 }
