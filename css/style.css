@@ -42,7 +42,7 @@ font-family: 'ABeeZee', sans-serif;
 
 h3, h1, h2{
 	font-family: 'Poiret One', cursive;
-	font-weight: bold;
+	font-weight: bolder;
 }
 
 /*Enlaces Menu - Seccion 1*/
@@ -106,4 +106,20 @@ a:hover{
 
 .text3{
 	padding-right: 10%;
+}
+
+/*SECCIÓN 4*/
+
+.container4{
+	background: url(../img/all.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 150vh;
+}
+
+.pag4{
+	color: whitesmoke;
+	padding-left: 50%;
+	padding-top: 7%;
 }
