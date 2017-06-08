@@ -39,7 +39,7 @@ font-family: 'ABeeZee', sans-serif;
 	font-family: 'ABeeZee', sans-serif;
 }
 
-h3, h1{
+h3, h1, h2{
 	font-family: 'Poiret One', cursive;
 	font-weight: bold;
 }
@@ -67,3 +67,12 @@ h3, h1{
 }
 
 /*Seccion 2*/
+
+h2{
+	color: #41521F;
+}
+
+.pag2A{
+	padding-top: 17%;
+	padding-right: 10%;
+}
