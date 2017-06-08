@@ -17,6 +17,7 @@ font-family: 'ABeeZee', sans-serif;
 	background: url(../img/portada.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 	height: 150vh;
 	color: whitesmoke;
 }
@@ -64,3 +65,5 @@ h3, h1{
 	padding: 10px;
 	font-family: 'ABeeZee', sans-serif;
 }
+
+/*Seccion 2*/
