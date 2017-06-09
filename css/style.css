@@ -207,3 +207,32 @@ h4{
 .cen{
 	text-align: center;
 }
+
+/*SECCIÓN 7*/
+
+.container7{
+	background: #4C7235;
+	padding: 8% 5%;
+}
+
+.titFooter{
+	color: #A89F68;
+	font-size: 25px;
+}
+
+.aFooter{
+	text-decoration: none;
+	color: #A89F68;
+}
+
+.pFooter{
+	color: whitesmoke;
+}
+
+li{
+	list-style: none;
+}
+
+.pag7A{
+	padding-top: 5%;
+}
