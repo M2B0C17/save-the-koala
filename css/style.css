@@ -40,7 +40,7 @@ font-family: 'ABeeZee', sans-serif;
 	font-family: 'ABeeZee', sans-serif;
 }
 
-h3, h1, h2{
+h3, h1, h2, h4{
 	font-family: 'Poiret One', cursive;
 	font-weight: bolder;
 }
@@ -122,4 +122,29 @@ a:hover{
 	color: whitesmoke;
 	padding-left: 50%;
 	padding-top: 7%;
+}
+
+/*SECCIÓN 5*/
+
+.container5{
+	background: whitesmoke;
+	padding: 8% 5%;
+}
+
+h4{
+	padding-left: 32%;
+	color: #A89F68;
+	font-size: 25px;
+}
+
+.fa{
+	font-size: 80px;
+	padding-left: 38%;
+	padding-top: 10%;
+	padding-bottom: 5%;
+	color: #A89F68;
+}
+
+.text5{
+	text-align: center;
 }
