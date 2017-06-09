@@ -127,7 +127,6 @@ a:hover{
 /*SECCIÓN 5*/
 
 .container5{
-	background: whitesmoke;
 	padding: 8% 5%;
 }
 
@@ -146,5 +145,65 @@ h4{
 }
 
 .text5{
+	text-align: center;
+}
+
+/*SECCIÓN 6*/
+
+.container6{
+	background: #A89F68;
+	padding: 8% 5%;
+}
+
+.pag6{
+	color: #41521F;
+	font-size: 25px;
+	text-transform: bolder;
+}
+
+.signo{
+	color: whitesmoke;
+	font-size: 20px;
+	position: relative;
+	top: 2px;
+}
+
+.num{
+	color: whitesmoke;
+	font-size: 100px;
+	position: relative;
+	top: -53px;
+	left: 15px;
+}
+
+.cosaa{
+	color: whitesmoke;
+	font-size: 20px;
+	position: relative;
+	top: -109px;
+	left: 82px;
+}
+
+.cosaa2{
+	color: whitesmoke;
+	font-size: 20px;
+	position: relative;
+	top: -109px;
+	left: 123px;
+}
+
+.personal{
+	font-weight: bolder;
+}
+
+.pag6A{
+	padding: 2% 0 0 9%;
+}
+
+.pag6B{
+	margin-top: -7%;
+}
+
+.cen{
 	text-align: center;
 }
