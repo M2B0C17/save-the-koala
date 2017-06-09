@@ -45,11 +45,18 @@ h3, h1, h2, h4{
 	font-weight: bolder;
 }
 
+.h3Tit{
+	font-family: 'Poiret One', cursive;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
 /*Enlaces Menu - Seccion 1*/
 .enlacesMenu{
 	color: whitesmoke;
 	text-decoration: none;
 	font-family: 'ABeeZee', sans-serif;
+	font-weight: bolder;
 }
 
 .enlacesMenu:hover{
